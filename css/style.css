@@ -168,7 +168,7 @@ hr {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-	position:relative;
+	position: absolute;
 	overflow:visible;
 }
 #intro .intro-body {
