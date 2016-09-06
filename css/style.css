@@ -168,6 +168,8 @@ hr {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	position:relative;
+	overflow:visible;
 }
 #intro .intro-body {
 	display: table-cell;
