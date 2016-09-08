@@ -39,7 +39,7 @@ function main() {
           target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
           if (target.length) {
             $('html,body').animate({
-              scrollTop: target.offset().top - 40
+              scrollTop: target.offset().top // Used to have -40 for the Nav bar, I deleted this and committed 2016/09/07
             }, 900);
             return false;
           }

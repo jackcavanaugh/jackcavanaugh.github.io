@@ -164,7 +164,7 @@ hr {
 	height: auto;
 	padding: 100px 0;
 	text-align: center;
-	color: #fff;
+	color: #8080ff;
 	background: url(../img/sunflowers-black.png) no-repeat center center fixed;
 	background-color: #000;
 	-webkit-background-size: cover;
@@ -185,8 +185,8 @@ hr {
 	text-transform: uppercase;
 }
 #intro .intro-body .brand-heading {
-	color: #E75926;
-	text-shadow: 0 4px #a13e1a;
+	color: #8080ff;
+    text-shadow: 0 4px #000099;
 }
 #intro .intro-body .intro-text {
 	font-size: 18px;
