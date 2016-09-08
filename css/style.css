@@ -164,7 +164,7 @@ hr {
 	height: auto;
 	padding: 100px 0;
 	text-align: center;
-	color: #8080ff;
+	color: #fff;
 	background: url(../img/sunflowers-black.png) no-repeat center center fixed;
 	background-color: #000;
 	-webkit-background-size: cover;
@@ -237,6 +237,7 @@ hr {
 }
 ul.cat li {
 	display: inline-block;
+	line-height: 45px;
 }
 ol.type li {
 	display: inline-block;
