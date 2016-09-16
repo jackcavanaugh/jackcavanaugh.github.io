@@ -92,7 +92,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #E75926;
+	background: #004b00;
 	margin: 0 auto;
 	margin-bottom: 30px;
 	border: 0;
@@ -109,7 +109,7 @@ hr {
 	font-weight: 600;
 }
 .navbar-custom .navbar-brand i.fa {
-	color: #E75926;
+	color: #004b00;
 }
 .navbar-custom .navbar-brand:focus {
 	outline: 0;
@@ -121,7 +121,7 @@ hr {
 	padding: 0 4px;
 }
 .navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus {
-	background-color: #E75926;
+	background-color: #004b00;
 	color: #ffffff;
 }
 .navbar-custom .navbar-brand .navbar-toggle:focus, .navbar-custom .navbar-brand .navbar-toggle:active {
@@ -137,13 +137,13 @@ hr {
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
-	color: #E75926;
+	color: #004b00;
 	background-color: transparent;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
 	background-color: transparent;
-	color: #E75926;
+	color: #004b00;
 }
 .navbar-custom .nav li.active {
 	outline: 0;
@@ -390,7 +390,7 @@ ol.type li a:hover {
 	color: #999999;
 }
 #footer a:hover, a:focus {
-	color: #e75926;
+	color: #004b00;
 }
 #footer p {
 	font-size: 13px;
