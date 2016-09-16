@@ -229,7 +229,7 @@ hr {
 /* Portfolio */
 #works {
 	padding: 20px 0;
-	background: #f6f6f6;
+	background: linen;
 }
 .categories {
 	padding-bottom: 30px;
@@ -356,7 +356,7 @@ ol.type li a:hover {
 #works i.fa {
 	font-size: 20px;
 	padding: 5px;
-	color: #F4D03F;
+	color: #004b00;
 }
 #works .social ul {
 	margin-top: 30px;
@@ -374,24 +374,6 @@ ol.type li a:hover {
 }
 #works .social i.fa:hover {
 	color: #007e00;
-}
-
-/* Footer */
-#footer {
-	background: #333;
-	color: #777;
-	padding: 20px 0;
-	text-align: center;
-}
-#footer a {
-	color: #999999;
-}
-#footer a:hover, a:focus {
-	color: #004b00;
-}
-#footer p {
-	font-size: 13px;
-	margin-top: 10px;
 }
 
 @media (max-width: 768px) {
